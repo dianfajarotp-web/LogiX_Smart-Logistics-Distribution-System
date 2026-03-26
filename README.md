@@ -1,1 +1,1 @@
-# LogiX_Smart-Logistics-Distribution-System
+# Logi-X
